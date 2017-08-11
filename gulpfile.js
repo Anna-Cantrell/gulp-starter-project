@@ -7,7 +7,6 @@
 
 // Require Plugins
 var gulp = require('gulp');
-var sass = require('gulp-sass');
 var cache = require('gulp-cache');
 var uglify = require('gulp-uglify');
 var htmlmin = require('gulp-htmlmin');
