@@ -12,4 +12,4 @@ This is a starter project for building HTML websites that includes a basic Gulp 
 5. Modify or remove the `README.md` file as needed
 6. Modify, add, and remove files in the `src` directory as needed to build your project
 
-Edited to include post-CSS by <a href="https://github.com/Anna-Cantrell">anna-cantrell</a>.
+Edited to include post-CSS by <a href="https://github.com/Anna-Cantrell" target="_blank">anna-cantrell</a>.
